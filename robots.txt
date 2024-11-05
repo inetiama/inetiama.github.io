@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inetiama.github.io/ELD/sitemap_index.txt
+Sitemap: https://inetiama.github.io/SQX/sitemap_index.txt
+Sitemap: https://inetiama.github.io/ipP/sitemap_index.txt
+Sitemap: https://inetiama.github.io/qBe/sitemap_index.txt
